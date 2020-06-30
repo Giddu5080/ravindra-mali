@@ -41,7 +41,7 @@
 		<caption>Employee Detail's</caption>
 		<tr>
 			<th>Sr.no</th>
-			<th>Employee ID </th>
+			<th>EmployeeID </th>
 			<th>Employee Name</th>
 			<th>Designation</th>
 			<th>Date Of Joinning</th>
